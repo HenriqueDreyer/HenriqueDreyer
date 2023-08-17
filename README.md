@@ -9,7 +9,7 @@
 ### :house: About me 
 - 👋 I am Henrique Dreyer, full-stack engineer.
 - 🔭 I’m currently working in private projects at Accenture.
-- 🌱 I’m currently learning Solidity language.
+- 🌱 I’m currently learning Kotlin, Android, Spring Security.
 - 📫 How to reach me: henriquedreyer[ at]gmail[dot ]com
 
 ### &#x1f4c8; GitHub Stats
